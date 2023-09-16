@@ -11,18 +11,19 @@ const languages = [
 ];
 
 const languageText = (lang) => {
-  const a = languages.find((i) => i?.id === lang);
+  const a = languages?.find((i) => i?.id === lang);
   return a?.text;
 };
 
 bot.on("message", async (msg) => {
-  const chatId = msg.chat.id;
-  const text = msg.text;
+  const chatId = msg?.chat?.id;
+  const text = msg?.text;
 
   if (text === "/start") {
-    await bot.sendMessage(chatId, "Выберите язык", {
+    await bot?.sendMessage(chatId, "Выберите язык", {
       reply_markup: {
-        keyboard: languages.map((lang) => [{ text: lang.text }]),
+        keyboard: [languages?.map((lang) => lang?.text)],
+        resize_keyboard: true,
       },
     });
   }
@@ -42,8 +43,6 @@ bot.on("message", async (msg) => {
             {
               text: "Отзывы ✏",
             },
-          ],
-          [
             {
               text: "Канал связи ☎",
             },
@@ -54,6 +53,7 @@ bot.on("message", async (msg) => {
             },
           ],
         ],
+        resize_keyboard: true,
       },
     });
   }
@@ -73,8 +73,6 @@ bot.on("message", async (msg) => {
             {
               text: "Сын-пикир ✏",
             },
-          ],
-          [
             {
               text: "Байланыш каналы ☎",
             },
@@ -85,6 +83,7 @@ bot.on("message", async (msg) => {
             },
           ],
         ],
+        resize_keyboard: true,
       },
     });
   }
