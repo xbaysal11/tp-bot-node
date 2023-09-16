@@ -1,15 +1,9 @@
 const TelegramBot = require("node-telegram-bot-api");
-const express = require("express");
-const cors = require("cors");
 
 const token = "6382056886:AAHERrlCUE2UzEjI0yQ_a6DF0qyxt6GWERI";
 const webAppUrl = "https://master--darling-sfogliatella-a71385.netlify.app";
-const PORT = 8080;
 
 const bot = new TelegramBot(token, { polling: true });
-
-const app = express();
-app.use(cors());
 
 const languages = [
   { id: "ru", text: "Русский 🇷🇺" },
@@ -191,5 +185,3 @@ bot.on("message", async (msg) => {
     });
   }
 });
-
-app.listen(PORT, console.log(PORT));

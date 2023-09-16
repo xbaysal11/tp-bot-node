@@ -57,77 +57,53 @@
     "categories": [
       {
         "id": 1,
-        "name": "category1"
+        "name": "HAYAT"
       },
       {
         "id": 2,
-        "name": "category 2"
-      },
-      {
-        "id": 3,
-        "name": "category 3"
-      },
-      {
-        "id": 4,
-        "name": "category 4"
-      },
-      {
-        "id": 5,
-        "name": "category 5"
-      },
-      {
-        "id": 6,
-        "name": "category 6"
+        "name": "TOP PARTNERS"
       }
     ],
     "products": [
       {
         "categoryId": 1,
-        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus. Sed viverra tellus in hac habitasse platea dictumst vestibulum.",
         "id": 614,
-        "name": "protain",
-        "production": "kyrgyzstan",
-        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+        "name": "Мээни күчөтүү",
+        "production": "Кыргызстан, Бишкек",
+        "imageUrl": "https://drive.google.com/file/d/1LDSgIwj8j_TUzCWmCriMxRDCPWCLse6G/view?usp=drive_link"
       },
       {
         "categoryId": 1,
-        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus. Sed viverra tellus in hac habitasse platea dictumst vestibulum.",
         "id": 14314,
-        "name": "gainer 1",
-        "production": "kyrgyzstan",
-        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+        "name": "Омега 3-6-7-9",
+        "production": "Кыргызстан, Бишкек",
+        "imageUrl": "https://drive.google.com/file/d/17c8UHgqIaMZB-vWIq2HasIsafeWIvgBq/view?usp=drive_link"
+      },
+      {
+        "categoryId": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus. Sed viverra tellus in hac habitasse platea dictumst vestibulum.",
+        "id": 714,
+        "name": "Офта коргоочу",
+        "production": "Кыргызстан, Бишкек",
+        "imageUrl": "https://drive.google.com/file/d/1AwyoeSaVi0vOuFcoKj34XW3jrUIaWJ2i/view?usp=drive_link"
       },
       {
         "categoryId": 2,
-        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
-        "id": 714,
-        "name": "protain 2",
-        "production": "kyrgyzstan",
-        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
-      },
-      {
-        "categoryId": 3,
-        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus. Sed viverra tellus in hac habitasse platea dictumst vestibulum.",
         "id": 145,
-        "name": "gainer 3",
-        "production": "kyrgyzstan",
-        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+        "name": "ТОП Аялдар үчүн",
+        "production": "Кыргызстан, Бишкек",
+        "imageUrl": "https://drive.google.com/file/d/1VHk3Etmqirf2_RJ8hdZ12Zk9hTEKx847/view?usp=drive_link"
       },
       {
-        "categoryId": 4,
-        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
-        "id": 6134,
-        "name": "protain 4",
-        "production": "kyrgyzstan",
-        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
-      },
-      {
-        "categoryId": 5,
-        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
-        "id": 4136134,
-        "name": "gainer 5",
-        "production": "kyrgyzstan",
-        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+        "categoryId": 2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque habitant morbi tristique senectus et netus. Sed viverra tellus in hac habitasse platea dictumst vestibulum.",
+        "id": 16145,
+        "name": "ТОП Эркектер үчүн",
+        "production": "Кыргызстан, Бишкек",
+        "imageUrl": "https://drive.google.com/file/d/10oLyNzjWGnZz9o3nJyYthzTNUAUfrMpw/view?usp=drive_link"
       }
     ]
   }
