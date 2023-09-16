@@ -1,0 +1,179 @@
+{
+  "ru": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "category1"
+      },
+      {
+        "id": 2,
+        "name": "category 2"
+      },
+      {
+        "id": 3,
+        "name": "category 3"
+      },
+      {
+        "id": 4,
+        "name": "category 4"
+      },
+      {
+        "id": 5,
+        "name": "category 5"
+      },
+      {
+        "id": 6,
+        "name": "category 6"
+      }
+    ],
+    "products": [
+      {
+        "categoryId": 1,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 614,
+        "name": "protain",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 1,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 14314,
+        "name": "gainer 1",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 2,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 714,
+        "name": "protain 2",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 3,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 145,
+        "name": "gainer 3",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 4,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 6134,
+        "name": "protain 4",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 5,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 4136134 ,
+        "name": "gainer 5",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      }, {
+        "categoryId": 5,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 236 ,
+        "name": "gainer 5",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      }, {
+        "categoryId": 5,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 234 ,
+        "name": "gainer 5",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      }, {
+        "categoryId": 5,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 724 ,
+        "name": "gainer 5",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      }
+    ]
+  },
+  "kg": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "category1"
+      },
+      {
+        "id": 2,
+        "name": "category 2"
+      },
+      {
+        "id": 3,
+        "name": "category 3"
+      },
+      {
+        "id": 4,
+        "name": "category 4"
+      },
+      {
+        "id": 5,
+        "name": "category 5"
+      },
+      {
+        "id": 6,
+        "name": "category 6"
+      }
+    ],
+    "products": [
+      {
+        "categoryId": 1,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 614,
+        "name": "protain",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 1,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 14314,
+        "name": "gainer 1",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 2,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 714,
+        "name": "protain 2",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 3,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 145,
+        "name": "gainer 3",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 4,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 6134,
+        "name": "protain 4",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      },
+      {
+        "categoryId": 5,
+        "description": "agasdg asdgas asdga  asdg a dg ad hasd  asd as d a das  ad asd a  a sd s dgasdgasd",
+        "id": 4136134 ,
+        "name": "gainer 5",
+        "production": "kyrgyzstan",
+        "imageUrl": "https://sportishka.com/uploads/posts/2021-12/1639003957_53-sportishka-com-p-motokross-sport-krasivo-foto-58.jpg"
+      }
+    ]
+  }
+}
