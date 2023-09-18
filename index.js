@@ -1,6 +1,7 @@
 const TelegramBot = require("node-telegram-bot-api");
 
 const token = "6382056886:AAHERrlCUE2UzEjI0yQ_a6DF0qyxt6GWERI";
+
 const webAppUrl = "https://master--darling-sfogliatella-a71385.netlify.app";
 
 const bot = new TelegramBot(token, { polling: true });
@@ -31,14 +32,14 @@ bot.on("message", async (msg) => {
     await bot.sendMessage(chatId, `Ваш язык: ${languageText("ru")}`, {
       reply_markup: {
         keyboard: [
-          [
-            {
-              text: "Открыть список продукций 📄",
-              web_app: {
-                url: `${webAppUrl}/ru`,
-              },
-            },
-          ],
+          // [
+          //   {
+          //     text: "Открыть список продукций 📄",
+          //     web_app: {
+          //       url: `${webAppUrl}/ru`,
+          //     },
+          //   },
+          // ],
           [
             {
               text: "Отзывы ✏",
@@ -61,14 +62,14 @@ bot.on("message", async (msg) => {
     await bot.sendMessage(chatId, `Сиздин тилиңиз: ${languageText("kg")}`, {
       reply_markup: {
         keyboard: [
-          [
-            {
-              text: "Продукциялардын тизмесин ачуу",
-              web_app: {
-                url: `${webAppUrl}/kg`,
-              },
-            },
-          ],
+          // [
+          //   {
+          //     text: "Продукциялардын тизмесин ачуу",
+          //     web_app: {
+          //       url: "https://xbaysal11.github.io/tp-bot-react/#/kg",
+          //     },
+          //   },
+          // ],
           [
             {
               text: "Сын-пикир ✏",
