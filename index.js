@@ -1,8 +1,8 @@
 const TelegramBot = require("node-telegram-bot-api");
 
-const token = "6382056886:AAHERrlCUE2UzEjI0yQ_a6DF0qyxt6GWERI";
+const token = "6382602978:AAHs9V7upRD5rSqEoTwekxAIplirWCV6B6Y";
 
-const webAppUrl = "https://master--darling-sfogliatella-a71385.netlify.app";
+const webAppUrl = "https://master--soft-lily-0a5dfc.netlify.app";
 
 const bot = new TelegramBot(token, { polling: true });
 
@@ -12,18 +12,18 @@ const languages = [
 ];
 
 const languageText = (lang) => {
-  const a = languages?.find((i) => i?.id === lang);
-  return a?.text;
+  const a = languages.find((i) => i.id === lang);
+  return a.text;
 };
 
 bot.on("message", async (msg) => {
-  const chatId = msg?.chat?.id;
-  const text = msg?.text;
+  const chatId = msg.chat.id;
+  const text = msg.text;
 
   if (text === "/start") {
-    await bot?.sendMessage(chatId, "Выберите язык", {
+    await bot.sendMessage(chatId, "Выберите язык", {
       reply_markup: {
-        keyboard: [languages?.map((lang) => lang?.text)],
+        keyboard: [languages.map((lang) => lang.text)],
         resize_keyboard: true,
       },
     });
